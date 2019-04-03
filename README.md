@@ -12,7 +12,6 @@ Initialise library "Theme" in your AppDelegate in didFinishLaunchingWithOptions 
 
 ```Swift
   func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Call swizzleExtension, this extention apply theme for all View in all UIViewController ! 
         UIViewController.swizzleExtension()
         return true
     }
