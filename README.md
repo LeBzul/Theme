@@ -21,7 +21,7 @@ Configure "Theme" for UIView Element (is better in your AppDelegate in didFinish
 
 ##### UITextField
 ```Swift 
-    UITextField.initTheme(fontSize: 14, fontName: "HelveticaNeu", textColor: UIColor.brown, backgroundColor: UIColor.lightGray, borderColor: UIColor.black, borderStyle: .bezel)
+   UITextField.initTheme(fontSize: 14, fontName: "HelveticaNeu", textColor: UIColor.brown, backgroundColor: UIColor.lightGray, borderColor: UIColor.black, borderStyle: .bezel)
  ```
  
 ##### UILabel
@@ -36,7 +36,7 @@ Configure "Theme" for UIView Element (is better in your AppDelegate in didFinish
 
 ##### UITextView
 ```Swift  
-    UITextView.initTheme(fontSize: 16, fontName: "Helvetica", textColor: UIColor.white, backgroundColor: UIColor.darkGray)
+   UITextView.initTheme(fontSize: 16, fontName: "Helvetica", textColor: UIColor.white, backgroundColor: UIColor.darkGray)
 ```
 
 
